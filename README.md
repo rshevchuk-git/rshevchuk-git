@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roman</h1>
+<h1 align="center">Hi 👋, I'm Roman </h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
 - 🔭 I’m currently working on **Commercial CRM for business**
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **roma.shev01@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/roman-shevchuk-b4750913b/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACIRrycBTncQaENEi7Xh54DU0d7zVVJf02Y,1609450949948)/](https://www.linkedin.com/in/roman-shevchuk-b4750913b/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACIRrycBTncQaENEi7Xh54DU0d7zVVJf02Y,1609450949948)/)
+- 📄 Know about my experiences [CV](https://github.com/rshevchuk-git/rshevchuk-git/blob/main/CV_Roman_Shevchuk.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
