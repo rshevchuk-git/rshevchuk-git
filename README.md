@@ -7,9 +7,7 @@
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
-- 🤝 I’m looking for help with **my frontend**
-
-- 💬 Ask me about **Java 8 features**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **roma.shev01@gmail.com**
 
