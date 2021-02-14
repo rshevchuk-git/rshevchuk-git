@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **roma.shev01@gmail.com**
 
-- 📄 Know about my experiences [CV](https://github.com/rshevchuk-git/rshevchuk-git/blob/main/CV_Roman_Shevchuk.pdf)
+- 📄 Know about my experiences [CV](https://github.com/rshevchuk-git/rshevchuk-git/blob/main/CV.pdf)
 
 ## <h3 align="left">Connect with me:</h3>
 <p align="left">
