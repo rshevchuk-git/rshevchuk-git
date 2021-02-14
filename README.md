@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roman<br/>A passionate fullstack developer</h1>
+<h1 align="center">Hi, I'm Roman<br/>A passionate Java developer</h1>
 
 
 - 🔭 I’m currently working on **Commercial CRM for business**
