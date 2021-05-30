@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Roman<br/>A passionate Java developer</h1>
 
 
-- 🔭 I’m currently working on **Commercial CRM for business**
+- 🔭 I’m currently working at **SoftwarePlant**
 
 - 🌱 I’m currently learning **Spring Security...**
 
