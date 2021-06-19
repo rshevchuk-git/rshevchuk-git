@@ -22,8 +22,15 @@
 </p>
 
 ## <h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
+<p align="center"> 
+  <img height="30" src="https://img.shields.io/badge/Java-000000?logo=java&logoColor=FFFFFF" />
+  <img height="30" src="https://img.shields.io/badge/Spring-000000?logo=spring&logoColor=FFFFFF" />
+      <img height="30" src="https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=FFFFFF" />
+    <img height="30" src="https://img.shields.io/badge/React-000000?logo=react&logoColor=FFFFFF" />
+     <img height="30" src="https://img.shields.io/badge/TypeScript-000000?logo=typescript&logoColor=FFFFFF" />
+      <img height="30" src="https://img.shields.io/badge/Angular-000000?logo=angular&logoColor=FFFFFF" />
+       <img height="30" src="https://img.shields.io/badge/MySQL-000000?logo=mysql&logoColor=FFFFFF" />
+   <img height="30" src="https://img.shields.io/badge/PostgreSQL-000000?logo=postgresql&logoColor=FFFFFF" />
 
 ##
 <p align="center">&nbsp;<img align="center" height="150"  src="https://github-readme-stats.vercel.app/api?username=rshevchuk-git&theme=dark&show_icons=true&locale=en" alt="rshevchuk-git" />
